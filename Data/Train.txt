@@ -1,0 +1,4 @@
+Training sentence one	Tag1
+Training sentence two	Tag2
+Training sentence three	Tag3
+Training sentence four	Tag4

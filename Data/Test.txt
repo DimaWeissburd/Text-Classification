@@ -1,0 +1,4 @@
+Testing sentence one	Tag1
+Testing sentence two	Tag2
+Testing sentence three	Tag3
+Testing sentence four	Tag4
